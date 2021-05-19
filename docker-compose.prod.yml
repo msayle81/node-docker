@@ -16,5 +16,3 @@ services:
       args:
         NODE_ENV: production
     command: node index.js
-  
-  mongo:
